@@ -1,0 +1,6 @@
+(1) Decompressing with `upx -d`
+(2) Start gdb debugging (Not running it yet)
+(3) Put breakpoints at crucial function - strcpy
+(4) Run debug...
+(5) Dump memory (You can also read the content of register's pointer)
+(6) Look at `strings`'s run output on the `core.pid` file --> 
